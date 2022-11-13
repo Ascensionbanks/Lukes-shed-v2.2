@@ -4,6 +4,10 @@ body{
   padding: 20px;
 }
 
+h3 {
+  border-style: double;
+}
+
 p {
   color: gray;
 }
