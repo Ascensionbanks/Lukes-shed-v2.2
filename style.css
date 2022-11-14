@@ -32,6 +32,7 @@ ul {
 a:link, a:visited {
   background-color: #E9E6A7;
   color: black;
+  border-style: dashed;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
